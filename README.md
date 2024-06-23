@@ -1,7 +1,7 @@
 # privacy-policy
 Privacy Policy for [IslamicQuiz]
 
-Effective Date: [Date]
+Effective Date: [6/24/2024]
 
 Thank you for using [islamicQuiz] ("App"), created by [X62].
 
