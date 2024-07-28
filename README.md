@@ -3,7 +3,7 @@ Privacy Policy for [IslamicQuiz]
 
 Effective Date: [6/24/2024]
 
-Thank you for using [islamicQuiz] ("App"), created by [X62].
+Thank you for using [islamicQuiz] ("App"), created by [Hmzii].
 
 1. Information We Collect
 User-Provided Information: We may collect personal information such as your name, email address, and other contact details when you register or contact us for support.
